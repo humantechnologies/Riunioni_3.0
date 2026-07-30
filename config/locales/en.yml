@@ -49,7 +49,7 @@ en:
   opengraph:
     description: Learn using BigBlueButton, the trusted open-source web conferencing solution that enables seamless virtual collaboration and online learning experiences.
   meeting:
-    moderator_message: "To invite someone to the meeting, send them this link:"
+    moderator_message: "Per invitare qualcuno a partecipare, inviagli questo collegamento:"
     access_code: "Access Code: %{code}"
   email:
     activation:
